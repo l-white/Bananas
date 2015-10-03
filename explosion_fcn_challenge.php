@@ -24,6 +24,7 @@ for ($i = 0; $i<= $strlen; $i++) {
   //Now that you've indexed each word, print out the array.
     //How do I do that?
 print_r($word);
+      // Okay, you know you have an array, but you're only printing out the first entry. Please print out all of them.
 }
 
 
