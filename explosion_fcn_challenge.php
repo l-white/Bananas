@@ -23,7 +23,7 @@ for ($i = 0; $i<= $strlen; $i++) {
   }
   //Now that you've indexed each word, print out the array.
     //How do I do that?
-print_r($word[$i]);
+print_r($word);
 }
 
 
