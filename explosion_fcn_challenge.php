@@ -3,7 +3,9 @@
   // What's a string?  What's a loop?
 $string = "I am a short sentence but getting longer";
 $space = " ";
-for ($i = 0; $i <= strlen($string); $i++) {
+$word = [$i];
+
+for ($i = 0; $i <= strlen($string[$i]); $i++) {
   // What do you want me to do once I loop through the string?
     //Take each word and assign it to an index.
       //What's a word?
